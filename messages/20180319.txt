@@ -1,0 +1,25 @@
+Hello, Redis Geeks!
+
+there's two types of people in the world: those who *love* Redis, and those who haven't worked with it yet! [1]
+Thanks for joining our Singapore Meetup & User Group, we're building the community where people who are new to the world of distributed & web-scale computing are getting new ideas and can make connections with experienced folks who share their battle stories. Ultimately, we hope to help making the web a little better for everyone & have fun.
+
+## FOSSASIA this week
+
+Are you joining FOSSASIA this week? Let's do a meet & greet over lunch, RSVP here: https://www.meetup.com/Redis-SG/events/248654978/
+Free tickets for FOSSASIA are still available: http://bit.ly/fossasiafree
+
+## SPEAKERS WANTED
+
+We've started planning for our first meetup, do reach out to me if you have an interesting topic. Are you using Redis in large project? We want to hear from you!
+
+## LOOKING FOR SPONSORS & VENUE
+
+Get in touch if you're keen to sponsor our first meetup - a great location will help, and who can say no to snacks & drinks.
+
+Wishing you a fun & succcessful week ahead!
+
+Uli
+Organizer - http://redis/sg
+
+
+[1] in fact, there's two types of people in the world - those who divide the world into two types, and those who don't :-)
