@@ -6,4 +6,9 @@ what an interesting month this was - we're glad this meetup & user group is gett
 We've had our first meet & greet at the FOSSASIA event in Singapore, with lively discussions over hearty food just before the big event started. In terms of key takeways I've realized that we need to start with the use cases first, and looking at things such as operational & expert topics only as a second priority. Redis is fantastic for people who are getting started with building distributed applications, and the focus should be there at the moment. Of course, we're hoping that the experts in the room will also benefit from the meetups.
 
 ## Our #1 Meetup coming up in April!
+At the moment we are targeting the last week of April for our first meetup in Singapore. Scouting for locations at the moment, and we're keen to speak with folks who are interested in speaking at our meetup. Are you using Redis for a large scale project and feel like sharing this with our community? Get in touch!
 
+## Redis as a Message Broker
+Many people remember the early days of Redis and its origin as an in memory key-value store. A lot of this has happened since then. At some point in time, an inconspicuous command RPOPLPUSH was added - a simple way to implement queues! Here's a use case where RabbitMQ was replaced by Redis: https://blog.tuleap.org/how-we-replaced-rabbitmq-redis
+
+Uli
