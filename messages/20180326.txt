@@ -1,2 +1,9 @@
 Happy Monday, Redis Geeks!
 
+what an interesting month this was - we're glad this meetup & user group is getting so much attention and it feels great how things are falling into place!
+
+## FOSSASIA Meet & Greet
+We've had our first meet & greet at the FOSSASIA event in Singapore, with lively discussions over hearty food just before the big event started. In terms of key takeways I've realized that we need to start with the use cases first, and looking at things such as operational & expert topics only as a second priority. Redis is fantastic for people who are getting started with building distributed applications, and the focus should be there at the moment. Of course, we're hoping that the experts in the room will also benefit from the meetups.
+
+## Our #1 Meetup coming up in April!
+
