@@ -1,1 +1,2 @@
 
+Learn about building distributed systems and mingle with the community at the first Redis User Group meetup in Singapore.
